@@ -1,8 +1,8 @@
-package main.services;
+package jokenpo.services;
 
 import java.util.Scanner;
 
-import main.entities.Jogador;
+import jokenpo.entities.Jogador;
 
 public class PartidaDupla {
 	Scanner scanner = new Scanner(System.in);

@@ -1,9 +1,9 @@
-package jogo;
+package jokenpo;
 
 import java.util.Scanner;
 
-import main.services.PartidaDupla;
-import main.services.PartidaSolo;
+import jokenpo.services.PartidaDupla;
+import jokenpo.services.PartidaSolo;
 
 public class Jogar {
 	

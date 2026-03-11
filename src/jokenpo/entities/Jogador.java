@@ -1,4 +1,4 @@
-package main.entities;
+package jokenpo.entities;
 
 public class Jogador {
 	private Mao mao;

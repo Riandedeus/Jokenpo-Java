@@ -1,6 +1,6 @@
-package main.services;
+package jokenpo.services;
 
-import main.entities.Jogador;
+import jokenpo.entities.Jogador;
 
 public class PartidaSolo {
 	Jogador jogador1 = new Jogador();

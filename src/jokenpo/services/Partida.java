@@ -1,8 +1,8 @@
-package main.services;
+package jokenpo.services;
 
-import main.entities.Jogador;
-import main.entities.Mao;
-import main.entities.Resultado;
+import jokenpo.entities.Jogador;
+import jokenpo.entities.Mao;
+import jokenpo.entities.Resultado;
 
 public class Partida {
 

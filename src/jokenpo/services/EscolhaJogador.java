@@ -1,10 +1,10 @@
-package main.services;
+package jokenpo.services;
 
 import java.util.Random;
 import java.util.Scanner;
 
-import main.entities.Jogador;
-import main.entities.Mao;
+import jokenpo.entities.Jogador;
+import jokenpo.entities.Mao;
 
 public class EscolhaJogador {
 	Scanner scanner = new Scanner(System.in);
